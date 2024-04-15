@@ -4,12 +4,20 @@ from flask_cors import CORS
 app = Flask(__name__)
 CORS(app)
 
-@app.route('/echo', methods=['POST'])
-def echo():
-    data = request.json  # JSON 데이터를 파싱합니다.
-    return jsonify({
-        "message": data['message']  # 받은 메시지를 그대로 반환
-    })
+messages = []
+
+def make_answer(data):
+    messages.append({'user': 'OEY', 'message': f'My answer for ["{data['message']}]: GOOD!"'})
+
+@app.route('/messages', methods=['GET', 'POST'])
+def handle_messages():
+    if request.method == 'POST':
+        data = request.get_json()
+        messages.append({'user': data['user'], 'message': data['message']})
+        make_answer(data)
+        return jsonify({'status': 'success'}), 200
+    elif request.method == 'GET':
+        return jsonify(messages), 200
 
 if __name__ == '__main__':
     app.run(debug=True)
