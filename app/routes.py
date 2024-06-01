@@ -1,5 +1,5 @@
 from flask import request, jsonify, Blueprint
-from .model import load_model, process_message
+from .models.model import load_model, process_message
 
 model, tokenizer = load_model()
 
