@@ -4,6 +4,11 @@ from transformers import AutoTokenizer, ElectraForSequenceClassification
 import os
 from dotenv import load_dotenv
 
+# 환경 변수 로드
+load_dotenv()
+openai.api_key = os.environ.get('openai.api_key')
+model_id = os.environ.get('model_id')
+
 # KoELECTRA 모델 로드
 tokenizer_koelectra = AutoTokenizer.from_pretrained("yshyeonn/hey-oey-open")
 model_koelectra = ElectraForSequenceClassification.from_pretrained("yshyeonn/hey-oey-open")
@@ -37,11 +42,6 @@ def generate_and_classify(user_input):
     return response, label
 
 if __name__ == "__main__":
-    # 환경 변수 로드
-    load_dotenv()
-    openai.api_key = os.environ.get('openai.api_key')
-    model_id = os.environ.get('model_id')
-
     while True:
         user_input = input("입력: ")
         if user_input.lower() == "quit":
