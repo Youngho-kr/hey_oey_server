@@ -12,7 +12,7 @@ def handle_messages():
     if request.method == 'POST':
         data = request.get_json()
         messages.append({'user': data['user'], 'message': data['message']})
-        response = process_message(data['message'])
+        response, intent = process_message(data['message'])
         responses.append({"user": "OEY", "message": response})
         return jsonify({'status': 'success'}), 200
     elif request.method == 'GET':
