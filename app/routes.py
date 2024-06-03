@@ -1,7 +1,5 @@
 from flask import request, jsonify, Blueprint
-from .models.model import load_model, process_message
-
-model, tokenizer = load_model()
+from .models.model import process_message
 
 api = Blueprint('api', __name__)
 
@@ -14,7 +12,7 @@ def handle_messages():
     if request.method == 'POST':
         data = request.get_json()
         messages.append({'user': data['user'], 'message': data['message']})
-        response = process_message(data['message'], model, tokenizer)
+        response = process_message(data['message'])
         responses.append({"user": "OEY", "message": response})
         return jsonify({'status': 'success'}), 200
     elif request.method == 'GET':
