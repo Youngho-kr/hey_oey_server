@@ -13,11 +13,11 @@ def handle_messages():
         data = request.get_json()
         messages.append({'user': data['user'], 'message': data['message']})
         response, intent = process_message(data['message'])
-        responses.append({"user": "OEY", "message": response})
+        responses.append({"user": "OEY", "message": response, "intent": intent})
         return jsonify({'status': 'success'}), 200
     elif request.method == 'GET':
         if responses:
             response = responses.pop(0)
             return jsonify(response), 200
         else:
-            return jsonify({"user": "NO_MESSAGE", "message": ""}), 200
+            return jsonify({"user": "NO_MESSAGE", "message": "", "intent": ""}), 200
