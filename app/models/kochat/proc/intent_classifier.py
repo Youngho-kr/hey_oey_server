@@ -20,7 +20,7 @@ class IntentClassifier(TorchProcessor, metaclass=ABCMeta):
 
     def __init__(self, model: nn.Module, parameters: Parameter or List[Parameter]):
         model = self.__add_classifier(model)
-        print("initinit")
+        # print("initinit")
         super().__init__(model, parameters)
 
     def fit(self, dataset: tuple, test: bool = True):

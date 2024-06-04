@@ -19,22 +19,17 @@ rcn_model_path = hf_hub_download(repo_id=repo_name, filename="EntityRecognizer.p
 gensim_embedder_path = hf_hub_download(repo_id=repo_name, filename="GensimEmbedder.gensim")
 npy_file_path_1 = hf_hub_download(repo_id=repo_name, filename="GensimEmbedder.gensim.wv.vectors_ngrams.npy")
 npy_file_path_2 = hf_hub_download(repo_id=repo_name, filename="GensimEmbedder.gensim.trainables.vectors_ngrams_lockf.npy")
-
-
 dataset = Dataset(ood=False)
-
-# current_dir = os.getcwd()
-
 
 # 모델 로드 시도
 try:
     emb_model = FastText.load(gensim_embedder_path)
-    print("Gensim model loaded successfully.")
-    print(emb_model)
+    # print("Gensim model loaded successfully.")
+    # print(emb_model)
 
     emb = GensimEmbedder(model=emb_model)
-    print("Embedder initialized successfully.")
-    print(emb)
+    # print("Embedder initialized successfully.")
+    # print(emb)
     print("모델 로드 성공!")
 except Exception as e:
     print(f"모델 로드 실패: {e}")
