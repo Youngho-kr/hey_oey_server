@@ -21,6 +21,6 @@ def chatbot(question, max_length=128):
     return reply
 
 # 예시 질문으로 챗봇 테스트
-question = "요즘 너무 우울해"
-print("질문:", question)
-print("답변:", chatbot(question))
+# question = "요즘 너무 우울해"
+# print("질문:", question)
+# print("답변:", chatbot(question))

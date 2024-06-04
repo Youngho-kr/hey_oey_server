@@ -1,0 +1,2211 @@
+﻿question,label
+팔,part
+다리,part
+목,part
+머리,part
+손가락,part
+발가락,part
+이마,part
+배,part
+허리,part
+피부,part
+엉덩이,part
+눈,part
+귀,part
+코,part
+입,part
+열,issue
+염증,issue
+출혈,issue
+멍,issue
+화상,issue
+동상,issue
+골절,issue
+부러짐,issue
+상처,issue
+붓기,issue
+땀띠,issue
+팔 빨갛게 됐어,part O O
+팔 빨간색이야,part O
+팔 빨개,part O
+팔 붉은색이야,part O
+팔 붉은색으로 변했어,part O O
+팔 빨간색,part O
+팔 붉은색,part O
+팔 열 있어요,part issue O
+팔 열 생겼어요,part issue O
+팔 열을 당했어요,part issue O
+팔 열 생겼어,part issue O
+팔 열 어떡해,part issue O
+팔 열 발생했어요,part issue O
+팔 열 있어,part issue O
+팔 열 보여,part issue O
+팔 열,part issue
+열 팔,issue part
+팔 염증 있어요,part issue O
+팔 염증 생겼어요,part issue O
+팔 염증을 당했어요,part issue O
+팔 염증 생겼어,part issue O
+팔 염증 어떡해,part issue O
+팔 염증 발생했어요,part issue O
+팔 염증 있어,part issue O
+팔 염증 보여,part issue O
+팔 염증,part issue
+염증 팔,issue part
+팔 출혈 있어요,part issue O
+팔 출혈 생겼어요,part issue O
+팔 출혈을 당했어요,part issue O
+팔 출혈 생겼어,part issue O
+팔 출혈 어떡해,part issue O
+팔 출혈 발생했어요,part issue O
+팔 출혈 있어,part issue O
+팔 출혈 보여,part issue O
+팔 출혈,part issue
+출혈 팔,issue part
+팔 멍 있어요,part issue O
+팔 멍 생겼어요,part issue O
+팔 멍을 당했어요,part issue O
+팔 멍 생겼어,part issue O
+팔 멍 어떡해,part issue O
+팔 멍 발생했어요,part issue O
+팔 멍 있어,part issue O
+팔 멍 보여,part issue O
+팔 멍,part issue
+멍 팔,issue part
+팔 화상 있어요,part issue O
+팔 화상 생겼어요,part issue O
+팔 화상을 당했어요,part issue O
+팔 화상 생겼어,part issue O
+팔 화상 어떡해,part issue O
+팔 화상 발생했어요,part issue O
+팔 화상 있어,part issue O
+팔 화상 보여,part issue O
+팔 화상,part issue
+화상 팔,issue part
+팔 동상 있어요,part issue O
+팔 동상 생겼어요,part issue O
+팔 동상을 당했어요,part issue O
+팔 동상 생겼어,part issue O
+팔 동상 어떡해,part issue O
+팔 동상 발생했어요,part issue O
+팔 동상 있어,part issue O
+팔 동상 보여,part issue O
+팔 동상,part issue
+동상 팔,issue part
+팔 골절 있어요,part issue O
+팔 골절 생겼어요,part issue O
+팔 골절을 당했어요,part issue O
+팔 골절 생겼어,part issue O
+팔 골절 어떡해,part issue O
+팔 골절 발생했어요,part issue O
+팔 골절 있어,part issue O
+팔 골절 보여,part issue O
+팔 골절,part issue
+골절 팔,issue part
+팔 부러짐 있어요,part issue O
+팔 부러짐 생겼어요,part issue O
+팔 부러짐을 당했어요,part issue O
+팔 부러짐 생겼어,part issue O
+팔 부러짐 어떡해,part issue O
+팔 부러짐 발생했어요,part issue O
+팔 부러짐 있어,part issue O
+팔 부러짐 보여,part issue O
+팔 부러짐,part issue
+부러짐 팔,issue part
+팔 상처 있어요,part issue O
+팔 상처 생겼어요,part issue O
+팔 상처 당했어요,part issue O
+팔 상처 생겼어,part issue O
+팔 상처 어떡해,part issue O
+팔 상처 발생했어요,part issue O
+팔 상처 있어,part issue O
+팔 상처,part issue
+상처 팔,issue part
+팔 붓기 있어요,part issue O
+팔 붓기 생겼어요,part issue O
+팔 붓기 당했어요,part issue O
+팔 붓기 생겼어,part issue O
+팔 붓기 어떡해,part issue O
+팔 붓기 발생했어요,part issue O
+팔 붓기 있어,part issue O
+팔 붓기,part issue
+붓기 팔,issue part
+팔 땀띠 있어요,part issue O
+팔 땀띠 생겼어요,part issue O
+팔 땀띠 당했어요,part issue O
+팔 땀띠 생겼어,part issue O
+팔 땀띠 어떡해,part issue O
+팔 땀띠 발생했어요,part issue O
+팔 땀띠 있어,part issue O
+팔 땀띠,part issue
+땀띠 팔,issue part
+다리 빨갛게 됐어,part O O
+다리 빨간색이야,part O
+다리 빨개,part O
+다리 붉은색이야,part O
+다리 붉은색으로 변했어,part O O
+다리 빨간색,part O
+다리 붉은색,part O
+다리 열 있어요,part issue O
+다리 열 생겼어요,part issue O
+다리 열을 당했어요,part issue O
+다리 열 생겼어,part issue O
+다리 열 어떡해,part issue O
+다리 열 발생했어요,part issue O
+다리 열 있어,part issue O
+다리 열 보여,part issue O
+다리 열,part issue
+열 다리,issue part
+다리 염증 있어요,part issue O
+다리 염증 생겼어요,part issue O
+다리 염증을 당했어요,part issue O
+다리 염증 생겼어,part issue O
+다리 염증 어떡해,part issue O
+다리 염증 발생했어요,part issue O
+다리 염증 있어,part issue O
+다리 염증 보여,part issue O
+다리 염증,part issue
+염증 다리,issue part
+다리 출혈 있어요,part issue O
+다리 출혈 생겼어요,part issue O
+다리 출혈을 당했어요,part issue O
+다리 출혈 생겼어,part issue O
+다리 출혈 어떡해,part issue O
+다리 출혈 발생했어요,part issue O
+다리 출혈 있어,part issue O
+다리 출혈 보여,part issue O
+다리 출혈,part issue
+출혈 다리,issue part
+다리 멍 있어요,part issue O
+다리 멍 생겼어요,part issue O
+다리 멍을 당했어요,part issue O
+다리 멍 생겼어,part issue O
+다리 멍 어떡해,part issue O
+다리 멍 발생했어요,part issue O
+다리 멍 있어,part issue O
+다리 멍 보여,part issue O
+다리 멍,part issue
+멍 다리,issue part
+다리 화상 있어요,part issue O
+다리 화상 생겼어요,part issue O
+다리 화상을 당했어요,part issue O
+다리 화상 생겼어,part issue O
+다리 화상 어떡해,part issue O
+다리 화상 발생했어요,part issue O
+다리 화상 있어,part issue O
+다리 화상 보여,part issue O
+다리 화상,part issue
+화상 다리,issue part
+다리 동상 있어요,part issue O
+다리 동상 생겼어요,part issue O
+다리 동상을 당했어요,part issue O
+다리 동상 생겼어,part issue O
+다리 동상 어떡해,part issue O
+다리 동상 발생했어요,part issue O
+다리 동상 있어,part issue O
+다리 동상 보여,part issue O
+다리 동상,part issue
+동상 다리,issue part
+다리 골절 있어요,part issue O
+다리 골절 생겼어요,part issue O
+다리 골절을 당했어요,part issue O
+다리 골절 생겼어,part issue O
+다리 골절 어떡해,part issue O
+다리 골절 발생했어요,part issue O
+다리 골절 있어,part issue O
+다리 골절 보여,part issue O
+다리 골절,part issue
+골절 다리,issue part
+다리 부러짐 있어요,part issue O
+다리 부러짐 생겼어요,part issue O
+다리 부러짐을 당했어요,part issue O
+다리 부러짐 생겼어,part issue O
+다리 부러짐 어떡해,part issue O
+다리 부러짐 발생했어요,part issue O
+다리 부러짐 있어,part issue O
+다리 부러짐 보여,part issue O
+다리 부러짐,part issue
+부러짐 다리,issue part
+다리 상처 있어요,part issue O
+다리 상처 생겼어요,part issue O
+다리 상처 당했어요,part issue O
+다리 상처 생겼어,part issue O
+다리 상처 어떡해,part issue O
+다리 상처 발생했어요,part issue O
+다리 상처 있어,part issue O
+다리 상처,part issue
+상처 다리,issue part
+다리 붓기 있어요,part issue O
+다리 붓기 생겼어요,part issue O
+다리 붓기 당했어요,part issue O
+다리 붓기 생겼어,part issue O
+다리 붓기 어떡해,part issue O
+다리 붓기 발생했어요,part issue O
+다리 붓기 있어,part issue O
+다리 붓기,part issue
+붓기 다리,issue part
+다리 땀띠 있어요,part issue O
+다리 땀띠 생겼어요,part issue O
+다리 땀띠 당했어요,part issue O
+다리 땀띠 생겼어,part issue O
+다리 땀띠 어떡해,part issue O
+다리 땀띠 발생했어요,part issue O
+다리 땀띠 있어,part issue O
+다리 땀띠,part issue
+땀띠 다리,issue part
+목 빨갛게 됐어,part O O
+목 빨간색이야,part O
+목 빨개,part O
+목 붉은색이야,part O
+목 붉은색으로 변했어,part O O
+목 빨간색,part O
+목 붉은색,part O
+목 열 있어요,part issue O
+목 열 생겼어요,part issue O
+목 열을 당했어요,part issue O
+목 열 생겼어,part issue O
+목 열 어떡해,part issue O
+목 열 발생했어요,part issue O
+목 열 있어,part issue O
+목 열 보여,part issue O
+목 열,part issue
+열 목,issue part
+목 염증 있어요,part issue O
+목 염증 생겼어요,part issue O
+목 염증을 당했어요,part issue O
+목 염증 생겼어,part issue O
+목 염증 어떡해,part issue O
+목 염증 발생했어요,part issue O
+목 염증 있어,part issue O
+목 염증 보여,part issue O
+목 염증,part issue
+염증 목,issue part
+목 출혈 있어요,part issue O
+목 출혈 생겼어요,part issue O
+목 출혈을 당했어요,part issue O
+목 출혈 생겼어,part issue O
+목 출혈 어떡해,part issue O
+목 출혈 발생했어요,part issue O
+목 출혈 있어,part issue O
+목 출혈 보여,part issue O
+목 출혈,part issue
+출혈 목,issue part
+목 멍 있어요,part issue O
+목 멍 생겼어요,part issue O
+목 멍을 당했어요,part issue O
+목 멍 생겼어,part issue O
+목 멍 어떡해,part issue O
+목 멍 발생했어요,part issue O
+목 멍 있어,part issue O
+목 멍 보여,part issue O
+목 멍,part issue
+멍 목,issue part
+목 화상 있어요,part issue O
+목 화상 생겼어요,part issue O
+목 화상을 당했어요,part issue O
+목 화상 생겼어,part issue O
+목 화상 어떡해,part issue O
+목 화상 발생했어요,part issue O
+목 화상 있어,part issue O
+목 화상 보여,part issue O
+목 화상,part issue
+화상 목,issue part
+목 동상 있어요,part issue O
+목 동상 생겼어요,part issue O
+목 동상을 당했어요,part issue O
+목 동상 생겼어,part issue O
+목 동상 어떡해,part issue O
+목 동상 발생했어요,part issue O
+목 동상 있어,part issue O
+목 동상 보여,part issue O
+목 동상,part issue
+동상 목,issue part
+목 골절 있어요,part issue O
+목 골절 생겼어요,part issue O
+목 골절을 당했어요,part issue O
+목 골절 생겼어,part issue O
+목 골절 어떡해,part issue O
+목 골절 발생했어요,part issue O
+목 골절 있어,part issue O
+목 골절 보여,part issue O
+목 골절,part issue
+골절 목,issue part
+목 부러짐 있어요,part issue O
+목 부러짐 생겼어요,part issue O
+목 부러짐을 당했어요,part issue O
+목 부러짐 생겼어,part issue O
+목 부러짐 어떡해,part issue O
+목 부러짐 발생했어요,part issue O
+목 부러짐 있어,part issue O
+목 부러짐 보여,part issue O
+목 부러짐,part issue
+부러짐 목,issue part
+목 상처 있어요,part issue O
+목 상처 생겼어요,part issue O
+목 상처 당했어요,part issue O
+목 상처 생겼어,part issue O
+목 상처 어떡해,part issue O
+목 상처 발생했어요,part issue O
+목 상처 있어,part issue O
+목 상처,part issue
+상처 목,issue part
+목 붓기 있어요,part issue O
+목 붓기 생겼어요,part issue O
+목 붓기 당했어요,part issue O
+목 붓기 생겼어,part issue O
+목 붓기 어떡해,part issue O
+목 붓기 발생했어요,part issue O
+목 붓기 있어,part issue O
+목 붓기,part issue
+붓기 목,issue part
+목 땀띠 있어요,part issue O
+목 땀띠 생겼어요,part issue O
+목 땀띠 당했어요,part issue O
+목 땀띠 생겼어,part issue O
+목 땀띠 어떡해,part issue O
+목 땀띠 발생했어요,part issue O
+목 땀띠 있어,part issue O
+목 땀띠,part issue
+땀띠 목,issue part
+머리 빨갛게 됐어,part O O
+머리 빨간색이야,part O
+머리 빨개,part O
+머리 붉은색이야,part O
+머리 붉은색으로 변했어,part O O
+머리 빨간색,part O
+머리 붉은색,part O
+머리 열 있어요,part issue O
+머리 열 생겼어요,part issue O
+머리 열을 당했어요,part issue O
+머리 열 생겼어,part issue O
+머리 열 어떡해,part issue O
+머리 열 발생했어요,part issue O
+머리 열 있어,part issue O
+머리 열 보여,part issue O
+머리 열,part issue
+열 머리,issue part
+머리 염증 있어요,part issue O
+머리 염증 생겼어요,part issue O
+머리 염증을 당했어요,part issue O
+머리 염증 생겼어,part issue O
+머리 염증 어떡해,part issue O
+머리 염증 발생했어요,part issue O
+머리 염증 있어,part issue O
+머리 염증 보여,part issue O
+머리 염증,part issue
+염증 머리,issue part
+머리 출혈 있어요,part issue O
+머리 출혈 생겼어요,part issue O
+머리 출혈을 당했어요,part issue O
+머리 출혈 생겼어,part issue O
+머리 출혈 어떡해,part issue O
+머리 출혈 발생했어요,part issue O
+머리 출혈 있어,part issue O
+머리 출혈 보여,part issue O
+머리 출혈,part issue
+출혈 머리,issue part
+머리 멍 있어요,part issue O
+머리 멍 생겼어요,part issue O
+머리 멍을 당했어요,part issue O
+머리 멍 생겼어,part issue O
+머리 멍 어떡해,part issue O
+머리 멍 발생했어요,part issue O
+머리 멍 있어,part issue O
+머리 멍 보여,part issue O
+머리 멍,part issue
+멍 머리,issue part
+머리 화상 있어요,part issue O
+머리 화상 생겼어요,part issue O
+머리 화상을 당했어요,part issue O
+머리 화상 생겼어,part issue O
+머리 화상 어떡해,part issue O
+머리 화상 발생했어요,part issue O
+머리 화상 있어,part issue O
+머리 화상 보여,part issue O
+머리 화상,part issue
+화상 머리,issue part
+머리 동상 있어요,part issue O
+머리 동상 생겼어요,part issue O
+머리 동상을 당했어요,part issue O
+머리 동상 생겼어,part issue O
+머리 동상 어떡해,part issue O
+머리 동상 발생했어요,part issue O
+머리 동상 있어,part issue O
+머리 동상 보여,part issue O
+머리 동상,part issue
+동상 머리,issue part
+머리 골절 있어요,part issue O
+머리 골절 생겼어요,part issue O
+머리 골절을 당했어요,part issue O
+머리 골절 생겼어,part issue O
+머리 골절 어떡해,part issue O
+머리 골절 발생했어요,part issue O
+머리 골절 있어,part issue O
+머리 골절 보여,part issue O
+머리 골절,part issue
+골절 머리,issue part
+머리 부러짐 있어요,part issue O
+머리 부러짐 생겼어요,part issue O
+머리 부러짐을 당했어요,part issue O
+머리 부러짐 생겼어,part issue O
+머리 부러짐 어떡해,part issue O
+머리 부러짐 발생했어요,part issue O
+머리 부러짐 있어,part issue O
+머리 부러짐 보여,part issue O
+머리 부러짐,part issue
+부러짐 머리,issue part
+머리 상처 있어요,part issue O
+머리 상처 생겼어요,part issue O
+머리 상처 당했어요,part issue O
+머리 상처 생겼어,part issue O
+머리 상처 어떡해,part issue O
+머리 상처 발생했어요,part issue O
+머리 상처 있어,part issue O
+머리 상처,part issue
+상처 머리,issue part
+머리 붓기 있어요,part issue O
+머리 붓기 생겼어요,part issue O
+머리 붓기 당했어요,part issue O
+머리 붓기 생겼어,part issue O
+머리 붓기 어떡해,part issue O
+머리 붓기 발생했어요,part issue O
+머리 붓기 있어,part issue O
+머리 붓기,part issue
+붓기 머리,issue part
+머리 땀띠 있어요,part issue O
+머리 땀띠 생겼어요,part issue O
+머리 땀띠 당했어요,part issue O
+머리 땀띠 생겼어,part issue O
+머리 땀띠 어떡해,part issue O
+머리 땀띠 발생했어요,part issue O
+머리 땀띠 있어,part issue O
+머리 땀띠,part issue
+땀띠 머리,issue part
+손가락 빨갛게 됐어,part O O
+손가락 빨간색이야,part O
+손가락 빨개,part O
+손가락 붉은색이야,part O
+손가락 붉은색으로 변했어,part O O
+손가락 빨간색,part O
+손가락 붉은색,part O
+손가락 열 있어요,part issue O
+손가락 열 생겼어요,part issue O
+손가락 열을 당했어요,part issue O
+손가락 열 생겼어,part issue O
+손가락 열 어떡해,part issue O
+손가락 열 발생했어요,part issue O
+손가락 열 있어,part issue O
+손가락 열 보여,part issue O
+손가락 열,part issue
+열 손가락,issue part
+손가락 염증 있어요,part issue O
+손가락 염증 생겼어요,part issue O
+손가락 염증을 당했어요,part issue O
+손가락 염증 생겼어,part issue O
+손가락 염증 어떡해,part issue O
+손가락 염증 발생했어요,part issue O
+손가락 염증 있어,part issue O
+손가락 염증 보여,part issue O
+손가락 염증,part issue
+염증 손가락,issue part
+손가락 출혈 있어요,part issue O
+손가락 출혈 생겼어요,part issue O
+손가락 출혈을 당했어요,part issue O
+손가락 출혈 생겼어,part issue O
+손가락 출혈 어떡해,part issue O
+손가락 출혈 발생했어요,part issue O
+손가락 출혈 있어,part issue O
+손가락 출혈 보여,part issue O
+손가락 출혈,part issue
+출혈 손가락,issue part
+손가락 멍 있어요,part issue O
+손가락 멍 생겼어요,part issue O
+손가락 멍을 당했어요,part issue O
+손가락 멍 생겼어,part issue O
+손가락 멍 어떡해,part issue O
+손가락 멍 발생했어요,part issue O
+손가락 멍 있어,part issue O
+손가락 멍 보여,part issue O
+손가락 멍,part issue
+멍 손가락,issue part
+손가락 화상 있어요,part issue O
+손가락 화상 생겼어요,part issue O
+손가락 화상을 당했어요,part issue O
+손가락 화상 생겼어,part issue O
+손가락 화상 어떡해,part issue O
+손가락 화상 발생했어요,part issue O
+손가락 화상 있어,part issue O
+손가락 화상 보여,part issue O
+손가락 화상,part issue
+화상 손가락,issue part
+손가락 동상 있어요,part issue O
+손가락 동상 생겼어요,part issue O
+손가락 동상을 당했어요,part issue O
+손가락 동상 생겼어,part issue O
+손가락 동상 어떡해,part issue O
+손가락 동상 발생했어요,part issue O
+손가락 동상 있어,part issue O
+손가락 동상 보여,part issue O
+손가락 동상,part issue
+동상 손가락,issue part
+손가락 골절 있어요,part issue O
+손가락 골절 생겼어요,part issue O
+손가락 골절을 당했어요,part issue O
+손가락 골절 생겼어,part issue O
+손가락 골절 어떡해,part issue O
+손가락 골절 발생했어요,part issue O
+손가락 골절 있어,part issue O
+손가락 골절 보여,part issue O
+손가락 골절,part issue
+골절 손가락,issue part
+손가락 부러짐 있어요,part issue O
+손가락 부러짐 생겼어요,part issue O
+손가락 부러짐을 당했어요,part issue O
+손가락 부러짐 생겼어,part issue O
+손가락 부러짐 어떡해,part issue O
+손가락 부러짐 발생했어요,part issue O
+손가락 부러짐 있어,part issue O
+손가락 부러짐 보여,part issue O
+손가락 부러짐,part issue
+부러짐 손가락,issue part
+손가락 상처 있어요,part issue O
+손가락 상처 생겼어요,part issue O
+손가락 상처 당했어요,part issue O
+손가락 상처 생겼어,part issue O
+손가락 상처 어떡해,part issue O
+손가락 상처 발생했어요,part issue O
+손가락 상처 있어,part issue O
+손가락 상처,part issue
+상처 손가락,issue part
+손가락 붓기 있어요,part issue O
+손가락 붓기 생겼어요,part issue O
+손가락 붓기 당했어요,part issue O
+손가락 붓기 생겼어,part issue O
+손가락 붓기 어떡해,part issue O
+손가락 붓기 발생했어요,part issue O
+손가락 붓기 있어,part issue O
+손가락 붓기,part issue
+붓기 손가락,issue part
+손가락 땀띠 있어요,part issue O
+손가락 땀띠 생겼어요,part issue O
+손가락 땀띠 당했어요,part issue O
+손가락 땀띠 생겼어,part issue O
+손가락 땀띠 어떡해,part issue O
+손가락 땀띠 발생했어요,part issue O
+손가락 땀띠 있어,part issue O
+손가락 땀띠,part issue
+땀띠 손가락,issue part
+발가락 빨갛게 됐어,part O O
+발가락 빨간색이야,part O
+발가락 빨개,part O
+발가락 붉은색이야,part O
+발가락 붉은색으로 변했어,part O O
+발가락 빨간색,part O
+발가락 붉은색,part O
+발가락 열 있어요,part issue O
+발가락 열 생겼어요,part issue O
+발가락 열을 당했어요,part issue O
+발가락 열 생겼어,part issue O
+발가락 열 어떡해,part issue O
+발가락 열 발생했어요,part issue O
+발가락 열 있어,part issue O
+발가락 열 보여,part issue O
+발가락 열,part issue
+열 발가락,issue part
+발가락 염증 있어요,part issue O
+발가락 염증 생겼어요,part issue O
+발가락 염증을 당했어요,part issue O
+발가락 염증 생겼어,part issue O
+발가락 염증 어떡해,part issue O
+발가락 염증 발생했어요,part issue O
+발가락 염증 있어,part issue O
+발가락 염증 보여,part issue O
+발가락 염증,part issue
+염증 발가락,issue part
+발가락 출혈 있어요,part issue O
+발가락 출혈 생겼어요,part issue O
+발가락 출혈을 당했어요,part issue O
+발가락 출혈 생겼어,part issue O
+발가락 출혈 어떡해,part issue O
+발가락 출혈 발생했어요,part issue O
+발가락 출혈 있어,part issue O
+발가락 출혈 보여,part issue O
+발가락 출혈,part issue
+출혈 발가락,issue part
+발가락 멍 있어요,part issue O
+발가락 멍 생겼어요,part issue O
+발가락 멍을 당했어요,part issue O
+발가락 멍 생겼어,part issue O
+발가락 멍 어떡해,part issue O
+발가락 멍 발생했어요,part issue O
+발가락 멍 있어,part issue O
+발가락 멍 보여,part issue O
+발가락 멍,part issue
+멍 발가락,issue part
+발가락 화상 있어요,part issue O
+발가락 화상 생겼어요,part issue O
+발가락 화상을 당했어요,part issue O
+발가락 화상 생겼어,part issue O
+발가락 화상 어떡해,part issue O
+발가락 화상 발생했어요,part issue O
+발가락 화상 있어,part issue O
+발가락 화상 보여,part issue O
+발가락 화상,part issue
+화상 발가락,issue part
+발가락 동상 있어요,part issue O
+발가락 동상 생겼어요,part issue O
+발가락 동상을 당했어요,part issue O
+발가락 동상 생겼어,part issue O
+발가락 동상 어떡해,part issue O
+발가락 동상 발생했어요,part issue O
+발가락 동상 있어,part issue O
+발가락 동상 보여,part issue O
+발가락 동상,part issue
+동상 발가락,issue part
+발가락 골절 있어요,part issue O
+발가락 골절 생겼어요,part issue O
+발가락 골절을 당했어요,part issue O
+발가락 골절 생겼어,part issue O
+발가락 골절 어떡해,part issue O
+발가락 골절 발생했어요,part issue O
+발가락 골절 있어,part issue O
+발가락 골절 보여,part issue O
+발가락 골절,part issue
+골절 발가락,issue part
+발가락 부러짐 있어요,part issue O
+발가락 부러짐 생겼어요,part issue O
+발가락 부러짐을 당했어요,part issue O
+발가락 부러짐 생겼어,part issue O
+발가락 부러짐 어떡해,part issue O
+발가락 부러짐 발생했어요,part issue O
+발가락 부러짐 있어,part issue O
+발가락 부러짐 보여,part issue O
+발가락 부러짐,part issue
+부러짐 발가락,issue part
+발가락 상처 있어요,part issue O
+발가락 상처 생겼어요,part issue O
+발가락 상처 당했어요,part issue O
+발가락 상처 생겼어,part issue O
+발가락 상처 어떡해,part issue O
+발가락 상처 발생했어요,part issue O
+발가락 상처 있어,part issue O
+발가락 상처,part issue
+상처 발가락,issue part
+발가락 붓기 있어요,part issue O
+발가락 붓기 생겼어요,part issue O
+발가락 붓기 당했어요,part issue O
+발가락 붓기 생겼어,part issue O
+발가락 붓기 어떡해,part issue O
+발가락 붓기 발생했어요,part issue O
+발가락 붓기 있어,part issue O
+발가락 붓기,part issue
+붓기 발가락,issue part
+발가락 땀띠 있어요,part issue O
+발가락 땀띠 생겼어요,part issue O
+발가락 땀띠 당했어요,part issue O
+발가락 땀띠 생겼어,part issue O
+발가락 땀띠 어떡해,part issue O
+발가락 땀띠 발생했어요,part issue O
+발가락 땀띠 있어,part issue O
+발가락 땀띠,part issue
+땀띠 발가락,issue part
+이마 빨갛게 됐어,part O O
+이마 빨간색이야,part O
+이마 빨개,part O
+이마 붉은색이야,part O
+이마 붉은색으로 변했어,part O O
+이마 빨간색,part O
+이마 붉은색,part O
+이마 열 있어요,part issue O
+이마 열 생겼어요,part issue O
+이마 열을 당했어요,part issue O
+이마 열 생겼어,part issue O
+이마 열 어떡해,part issue O
+이마 열 발생했어요,part issue O
+이마 열 있어,part issue O
+이마 열 보여,part issue O
+이마 열,part issue
+열 이마,issue part
+이마 염증 있어요,part issue O
+이마 염증 생겼어요,part issue O
+이마 염증을 당했어요,part issue O
+이마 염증 생겼어,part issue O
+이마 염증 어떡해,part issue O
+이마 염증 발생했어요,part issue O
+이마 염증 있어,part issue O
+이마 염증 보여,part issue O
+이마 염증,part issue
+염증 이마,issue part
+이마 출혈 있어요,part issue O
+이마 출혈 생겼어요,part issue O
+이마 출혈을 당했어요,part issue O
+이마 출혈 생겼어,part issue O
+이마 출혈 어떡해,part issue O
+이마 출혈 발생했어요,part issue O
+이마 출혈 있어,part issue O
+이마 출혈 보여,part issue O
+이마 출혈,part issue
+출혈 이마,issue part
+이마 멍 있어요,part issue O
+이마 멍 생겼어요,part issue O
+이마 멍을 당했어요,part issue O
+이마 멍 생겼어,part issue O
+이마 멍 어떡해,part issue O
+이마 멍 발생했어요,part issue O
+이마 멍 있어,part issue O
+이마 멍 보여,part issue O
+이마 멍,part issue
+멍 이마,issue part
+이마 화상 있어요,part issue O
+이마 화상 생겼어요,part issue O
+이마 화상을 당했어요,part issue O
+이마 화상 생겼어,part issue O
+이마 화상 어떡해,part issue O
+이마 화상 발생했어요,part issue O
+이마 화상 있어,part issue O
+이마 화상 보여,part issue O
+이마 화상,part issue
+화상 이마,issue part
+이마 동상 있어요,part issue O
+이마 동상 생겼어요,part issue O
+이마 동상을 당했어요,part issue O
+이마 동상 생겼어,part issue O
+이마 동상 어떡해,part issue O
+이마 동상 발생했어요,part issue O
+이마 동상 있어,part issue O
+이마 동상 보여,part issue O
+이마 동상,part issue
+동상 이마,issue part
+이마 골절 있어요,part issue O
+이마 골절 생겼어요,part issue O
+이마 골절을 당했어요,part issue O
+이마 골절 생겼어,part issue O
+이마 골절 어떡해,part issue O
+이마 골절 발생했어요,part issue O
+이마 골절 있어,part issue O
+이마 골절 보여,part issue O
+이마 골절,part issue
+골절 이마,issue part
+이마 부러짐 있어요,part issue O
+이마 부러짐 생겼어요,part issue O
+이마 부러짐을 당했어요,part issue O
+이마 부러짐 생겼어,part issue O
+이마 부러짐 어떡해,part issue O
+이마 부러짐 발생했어요,part issue O
+이마 부러짐 있어,part issue O
+이마 부러짐 보여,part issue O
+이마 부러짐,part issue
+부러짐 이마,issue part
+이마 상처 있어요,part issue O
+이마 상처 생겼어요,part issue O
+이마 상처 당했어요,part issue O
+이마 상처 생겼어,part issue O
+이마 상처 어떡해,part issue O
+이마 상처 발생했어요,part issue O
+이마 상처 있어,part issue O
+이마 상처,part issue
+상처 이마,issue part
+이마 붓기 있어요,part issue O
+이마 붓기 생겼어요,part issue O
+이마 붓기 당했어요,part issue O
+이마 붓기 생겼어,part issue O
+이마 붓기 어떡해,part issue O
+이마 붓기 발생했어요,part issue O
+이마 붓기 있어,part issue O
+이마 붓기,part issue
+붓기 이마,issue part
+이마 땀띠 있어요,part issue O
+이마 땀띠 생겼어요,part issue O
+이마 땀띠 당했어요,part issue O
+이마 땀띠 생겼어,part issue O
+이마 땀띠 어떡해,part issue O
+이마 땀띠 발생했어요,part issue O
+이마 땀띠 있어,part issue O
+이마 땀띠,part issue
+땀띠 이마,issue part
+배 빨갛게 됐어,part O O
+배 빨간색이야,part O
+배 빨개,part O
+배 붉은색이야,part O
+배 붉은색으로 변했어,part O O
+배 빨간색,part O
+배 붉은색,part O
+배 열 있어요,part issue O
+배 열 생겼어요,part issue O
+배 열을 당했어요,part issue O
+배 열 생겼어,part issue O
+배 열 어떡해,part issue O
+배 열 발생했어요,part issue O
+배 열 있어,part issue O
+배 열 보여,part issue O
+배 열,part issue
+열 배,issue part
+배 염증 있어요,part issue O
+배 염증 생겼어요,part issue O
+배 염증을 당했어요,part issue O
+배 염증 생겼어,part issue O
+배 염증 어떡해,part issue O
+배 염증 발생했어요,part issue O
+배 염증 있어,part issue O
+배 염증 보여,part issue O
+배 염증,part issue
+염증 배,issue part
+배 출혈 있어요,part issue O
+배 출혈 생겼어요,part issue O
+배 출혈을 당했어요,part issue O
+배 출혈 생겼어,part issue O
+배 출혈 어떡해,part issue O
+배 출혈 발생했어요,part issue O
+배 출혈 있어,part issue O
+배 출혈 보여,part issue O
+배 출혈,part issue
+출혈 배,issue part
+배 멍 있어요,part issue O
+배 멍 생겼어요,part issue O
+배 멍을 당했어요,part issue O
+배 멍 생겼어,part issue O
+배 멍 어떡해,part issue O
+배 멍 발생했어요,part issue O
+배 멍 있어,part issue O
+배 멍 보여,part issue O
+배 멍,part issue
+멍 배,issue part
+배 화상 있어요,part issue O
+배 화상 생겼어요,part issue O
+배 화상을 당했어요,part issue O
+배 화상 생겼어,part issue O
+배 화상 어떡해,part issue O
+배 화상 발생했어요,part issue O
+배 화상 있어,part issue O
+배 화상 보여,part issue O
+배 화상,part issue
+화상 배,issue part
+배 동상 있어요,part issue O
+배 동상 생겼어요,part issue O
+배 동상을 당했어요,part issue O
+배 동상 생겼어,part issue O
+배 동상 어떡해,part issue O
+배 동상 발생했어요,part issue O
+배 동상 있어,part issue O
+배 동상 보여,part issue O
+배 동상,part issue
+동상 배,issue part
+배 골절 있어요,part issue O
+배 골절 생겼어요,part issue O
+배 골절을 당했어요,part issue O
+배 골절 생겼어,part issue O
+배 골절 어떡해,part issue O
+배 골절 발생했어요,part issue O
+배 골절 있어,part issue O
+배 골절 보여,part issue O
+배 골절,part issue
+골절 배,issue part
+배 부러짐 있어요,part issue O
+배 부러짐 생겼어요,part issue O
+배 부러짐을 당했어요,part issue O
+배 부러짐 생겼어,part issue O
+배 부러짐 어떡해,part issue O
+배 부러짐 발생했어요,part issue O
+배 부러짐 있어,part issue O
+배 부러짐 보여,part issue O
+배 부러짐,part issue
+부러짐 배,issue part
+배 상처 있어요,part issue O
+배 상처 생겼어요,part issue O
+배 상처 당했어요,part issue O
+배 상처 생겼어,part issue O
+배 상처 어떡해,part issue O
+배 상처 발생했어요,part issue O
+배 상처 있어,part issue O
+배 상처,part issue
+상처 배,issue part
+배 붓기 있어요,part issue O
+배 붓기 생겼어요,part issue O
+배 붓기 당했어요,part issue O
+배 붓기 생겼어,part issue O
+배 붓기 어떡해,part issue O
+배 붓기 발생했어요,part issue O
+배 붓기 있어,part issue O
+배 붓기,part issue
+붓기 배,issue part
+배 땀띠 있어요,part issue O
+배 땀띠 생겼어요,part issue O
+배 땀띠 당했어요,part issue O
+배 땀띠 생겼어,part issue O
+배 땀띠 어떡해,part issue O
+배 땀띠 발생했어요,part issue O
+배 땀띠 있어,part issue O
+배 땀띠,part issue
+땀띠 배,issue part
+허리 빨갛게 됐어,part O O
+허리 빨간색이야,part O
+허리 빨개,part O
+허리 붉은색이야,part O
+허리 붉은색으로 변했어,part O O
+허리 빨간색,part O
+허리 붉은색,part O
+허리 열 있어요,part issue O
+허리 열 생겼어요,part issue O
+허리 열을 당했어요,part issue O
+허리 열 생겼어,part issue O
+허리 열 어떡해,part issue O
+허리 열 발생했어요,part issue O
+허리 열 있어,part issue O
+허리 열 보여,part issue O
+허리 열,part issue
+열 허리,issue part
+허리 염증 있어요,part issue O
+허리 염증 생겼어요,part issue O
+허리 염증을 당했어요,part issue O
+허리 염증 생겼어,part issue O
+허리 염증 어떡해,part issue O
+허리 염증 발생했어요,part issue O
+허리 염증 있어,part issue O
+허리 염증 보여,part issue O
+허리 염증,part issue
+염증 허리,issue part
+허리 출혈 있어요,part issue O
+허리 출혈 생겼어요,part issue O
+허리 출혈을 당했어요,part issue O
+허리 출혈 생겼어,part issue O
+허리 출혈 어떡해,part issue O
+허리 출혈 발생했어요,part issue O
+허리 출혈 있어,part issue O
+허리 출혈 보여,part issue O
+허리 출혈,part issue
+출혈 허리,issue part
+허리 멍 있어요,part issue O
+허리 멍 생겼어요,part issue O
+허리 멍을 당했어요,part issue O
+허리 멍 생겼어,part issue O
+허리 멍 어떡해,part issue O
+허리 멍 발생했어요,part issue O
+허리 멍 있어,part issue O
+허리 멍 보여,part issue O
+허리 멍,part issue
+멍 허리,issue part
+허리 화상 있어요,part issue O
+허리 화상 생겼어요,part issue O
+허리 화상을 당했어요,part issue O
+허리 화상 생겼어,part issue O
+허리 화상 어떡해,part issue O
+허리 화상 발생했어요,part issue O
+허리 화상 있어,part issue O
+허리 화상 보여,part issue O
+허리 화상,part issue
+화상 허리,issue part
+허리 동상 있어요,part issue O
+허리 동상 생겼어요,part issue O
+허리 동상을 당했어요,part issue O
+허리 동상 생겼어,part issue O
+허리 동상 어떡해,part issue O
+허리 동상 발생했어요,part issue O
+허리 동상 있어,part issue O
+허리 동상 보여,part issue O
+허리 동상,part issue
+동상 허리,issue part
+허리 골절 있어요,part issue O
+허리 골절 생겼어요,part issue O
+허리 골절을 당했어요,part issue O
+허리 골절 생겼어,part issue O
+허리 골절 어떡해,part issue O
+허리 골절 발생했어요,part issue O
+허리 골절 있어,part issue O
+허리 골절 보여,part issue O
+허리 골절,part issue
+골절 허리,issue part
+허리 부러짐 있어요,part issue O
+허리 부러짐 생겼어요,part issue O
+허리 부러짐을 당했어요,part issue O
+허리 부러짐 생겼어,part issue O
+허리 부러짐 어떡해,part issue O
+허리 부러짐 발생했어요,part issue O
+허리 부러짐 있어,part issue O
+허리 부러짐 보여,part issue O
+허리 부러짐,part issue
+부러짐 허리,issue part
+허리 상처 있어요,part issue O
+허리 상처 생겼어요,part issue O
+허리 상처 당했어요,part issue O
+허리 상처 생겼어,part issue O
+허리 상처 어떡해,part issue O
+허리 상처 발생했어요,part issue O
+허리 상처 있어,part issue O
+허리 상처,part issue
+상처 허리,issue part
+허리 붓기 있어요,part issue O
+허리 붓기 생겼어요,part issue O
+허리 붓기 당했어요,part issue O
+허리 붓기 생겼어,part issue O
+허리 붓기 어떡해,part issue O
+허리 붓기 발생했어요,part issue O
+허리 붓기 있어,part issue O
+허리 붓기,part issue
+붓기 허리,issue part
+허리 땀띠 있어요,part issue O
+허리 땀띠 생겼어요,part issue O
+허리 땀띠 당했어요,part issue O
+허리 땀띠 생겼어,part issue O
+허리 땀띠 어떡해,part issue O
+허리 땀띠 발생했어요,part issue O
+허리 땀띠 있어,part issue O
+허리 땀띠,part issue
+땀띠 허리,issue part
+피부 빨갛게 됐어,part O O
+피부 빨간색이야,part O
+피부 빨개,part O
+피부 붉은색이야,part O
+피부 붉은색으로 변했어,part O O
+피부 빨간색,part O
+피부 붉은색,part O
+피부 열 있어요,part issue O
+피부 열 생겼어요,part issue O
+피부 열을 당했어요,part issue O
+피부 열 생겼어,part issue O
+피부 열 어떡해,part issue O
+피부 열 발생했어요,part issue O
+피부 열 있어,part issue O
+피부 열 보여,part issue O
+피부 열,part issue
+열 피부,issue part
+피부 염증 있어요,part issue O
+피부 염증 생겼어요,part issue O
+피부 염증을 당했어요,part issue O
+피부 염증 생겼어,part issue O
+피부 염증 어떡해,part issue O
+피부 염증 발생했어요,part issue O
+피부 염증 있어,part issue O
+피부 염증 보여,part issue O
+피부 염증,part issue
+염증 피부,issue part
+피부 출혈 있어요,part issue O
+피부 출혈 생겼어요,part issue O
+피부 출혈을 당했어요,part issue O
+피부 출혈 생겼어,part issue O
+피부 출혈 어떡해,part issue O
+피부 출혈 발생했어요,part issue O
+피부 출혈 있어,part issue O
+피부 출혈 보여,part issue O
+피부 출혈,part issue
+출혈 피부,issue part
+피부 멍 있어요,part issue O
+피부 멍 생겼어요,part issue O
+피부 멍을 당했어요,part issue O
+피부 멍 생겼어,part issue O
+피부 멍 어떡해,part issue O
+피부 멍 발생했어요,part issue O
+피부 멍 있어,part issue O
+피부 멍 보여,part issue O
+피부 멍,part issue
+멍 피부,issue part
+피부 화상 있어요,part issue O
+피부 화상 생겼어요,part issue O
+피부 화상을 당했어요,part issue O
+피부 화상 생겼어,part issue O
+피부 화상 어떡해,part issue O
+피부 화상 발생했어요,part issue O
+피부 화상 있어,part issue O
+피부 화상 보여,part issue O
+피부 화상,part issue
+화상 피부,issue part
+피부 동상 있어요,part issue O
+피부 동상 생겼어요,part issue O
+피부 동상을 당했어요,part issue O
+피부 동상 생겼어,part issue O
+피부 동상 어떡해,part issue O
+피부 동상 발생했어요,part issue O
+피부 동상 있어,part issue O
+피부 동상 보여,part issue O
+피부 동상,part issue
+동상 피부,issue part
+피부 골절 있어요,part issue O
+피부 골절 생겼어요,part issue O
+피부 골절을 당했어요,part issue O
+피부 골절 생겼어,part issue O
+피부 골절 어떡해,part issue O
+피부 골절 발생했어요,part issue O
+피부 골절 있어,part issue O
+피부 골절 보여,part issue O
+피부 골절,part issue
+골절 피부,issue part
+피부 부러짐 있어요,part issue O
+피부 부러짐 생겼어요,part issue O
+피부 부러짐을 당했어요,part issue O
+피부 부러짐 생겼어,part issue O
+피부 부러짐 어떡해,part issue O
+피부 부러짐 발생했어요,part issue O
+피부 부러짐 있어,part issue O
+피부 부러짐 보여,part issue O
+피부 부러짐,part issue
+부러짐 피부,issue part
+피부 상처 있어요,part issue O
+피부 상처 생겼어요,part issue O
+피부 상처 당했어요,part issue O
+피부 상처 생겼어,part issue O
+피부 상처 어떡해,part issue O
+피부 상처 발생했어요,part issue O
+피부 상처 있어,part issue O
+피부 상처,part issue
+상처 피부,issue part
+피부 붓기 있어요,part issue O
+피부 붓기 생겼어요,part issue O
+피부 붓기 당했어요,part issue O
+피부 붓기 생겼어,part issue O
+피부 붓기 어떡해,part issue O
+피부 붓기 발생했어요,part issue O
+피부 붓기 있어,part issue O
+피부 붓기,part issue
+붓기 피부,issue part
+피부 땀띠 있어요,part issue O
+피부 땀띠 생겼어요,part issue O
+피부 땀띠 당했어요,part issue O
+피부 땀띠 생겼어,part issue O
+피부 땀띠 어떡해,part issue O
+피부 땀띠 발생했어요,part issue O
+피부 땀띠 있어,part issue O
+피부 땀띠,part issue
+땀띠 피부,issue part
+엉덩이 빨갛게 됐어,part O O
+엉덩이 빨간색이야,part O
+엉덩이 빨개,part O
+엉덩이 붉은색이야,part O
+엉덩이 붉은색으로 변했어,part O O
+엉덩이 빨간색,part O
+엉덩이 붉은색,part O
+엉덩이 열 있어요,part issue O
+엉덩이 열 생겼어요,part issue O
+엉덩이 열을 당했어요,part issue O
+엉덩이 열 생겼어,part issue O
+엉덩이 열 어떡해,part issue O
+엉덩이 열 발생했어요,part issue O
+엉덩이 열 있어,part issue O
+엉덩이 열 보여,part issue O
+엉덩이 열,part issue
+열 엉덩이,issue part
+엉덩이 염증 있어요,part issue O
+엉덩이 염증 생겼어요,part issue O
+엉덩이 염증을 당했어요,part issue O
+엉덩이 염증 생겼어,part issue O
+엉덩이 염증 어떡해,part issue O
+엉덩이 염증 발생했어요,part issue O
+엉덩이 염증 있어,part issue O
+엉덩이 염증 보여,part issue O
+엉덩이 염증,part issue
+염증 엉덩이,issue part
+엉덩이 출혈 있어요,part issue O
+엉덩이 출혈 생겼어요,part issue O
+엉덩이 출혈을 당했어요,part issue O
+엉덩이 출혈 생겼어,part issue O
+엉덩이 출혈 어떡해,part issue O
+엉덩이 출혈 발생했어요,part issue O
+엉덩이 출혈 있어,part issue O
+엉덩이 출혈 보여,part issue O
+엉덩이 출혈,part issue
+출혈 엉덩이,issue part
+엉덩이 멍 있어요,part issue O
+엉덩이 멍 생겼어요,part issue O
+엉덩이 멍을 당했어요,part issue O
+엉덩이 멍 생겼어,part issue O
+엉덩이 멍 어떡해,part issue O
+엉덩이 멍 발생했어요,part issue O
+엉덩이 멍 있어,part issue O
+엉덩이 멍 보여,part issue O
+엉덩이 멍,part issue
+멍 엉덩이,issue part
+엉덩이 화상 있어요,part issue O
+엉덩이 화상 생겼어요,part issue O
+엉덩이 화상을 당했어요,part issue O
+엉덩이 화상 생겼어,part issue O
+엉덩이 화상 어떡해,part issue O
+엉덩이 화상 발생했어요,part issue O
+엉덩이 화상 있어,part issue O
+엉덩이 화상 보여,part issue O
+엉덩이 화상,part issue
+화상 엉덩이,issue part
+엉덩이 동상 있어요,part issue O
+엉덩이 동상 생겼어요,part issue O
+엉덩이 동상을 당했어요,part issue O
+엉덩이 동상 생겼어,part issue O
+엉덩이 동상 어떡해,part issue O
+엉덩이 동상 발생했어요,part issue O
+엉덩이 동상 있어,part issue O
+엉덩이 동상 보여,part issue O
+엉덩이 동상,part issue
+동상 엉덩이,issue part
+엉덩이 골절 있어요,part issue O
+엉덩이 골절 생겼어요,part issue O
+엉덩이 골절을 당했어요,part issue O
+엉덩이 골절 생겼어,part issue O
+엉덩이 골절 어떡해,part issue O
+엉덩이 골절 발생했어요,part issue O
+엉덩이 골절 있어,part issue O
+엉덩이 골절 보여,part issue O
+엉덩이 골절,part issue
+골절 엉덩이,issue part
+엉덩이 부러짐 있어요,part issue O
+엉덩이 부러짐 생겼어요,part issue O
+엉덩이 부러짐을 당했어요,part issue O
+엉덩이 부러짐 생겼어,part issue O
+엉덩이 부러짐 어떡해,part issue O
+엉덩이 부러짐 발생했어요,part issue O
+엉덩이 부러짐 있어,part issue O
+엉덩이 부러짐 보여,part issue O
+엉덩이 부러짐,part issue
+부러짐 엉덩이,issue part
+엉덩이 상처 있어요,part issue O
+엉덩이 상처 생겼어요,part issue O
+엉덩이 상처 당했어요,part issue O
+엉덩이 상처 생겼어,part issue O
+엉덩이 상처 어떡해,part issue O
+엉덩이 상처 발생했어요,part issue O
+엉덩이 상처 있어,part issue O
+엉덩이 상처,part issue
+상처 엉덩이,issue part
+엉덩이 붓기 있어요,part issue O
+엉덩이 붓기 생겼어요,part issue O
+엉덩이 붓기 당했어요,part issue O
+엉덩이 붓기 생겼어,part issue O
+엉덩이 붓기 어떡해,part issue O
+엉덩이 붓기 발생했어요,part issue O
+엉덩이 붓기 있어,part issue O
+엉덩이 붓기,part issue
+붓기 엉덩이,issue part
+엉덩이 땀띠 있어요,part issue O
+엉덩이 땀띠 생겼어요,part issue O
+엉덩이 땀띠 당했어요,part issue O
+엉덩이 땀띠 생겼어,part issue O
+엉덩이 땀띠 어떡해,part issue O
+엉덩이 땀띠 발생했어요,part issue O
+엉덩이 땀띠 있어,part issue O
+엉덩이 땀띠,part issue
+땀띠 엉덩이,issue part
+눈 빨갛게 됐어,part O O
+눈 빨간색이야,part O
+눈 빨개,part O
+눈 붉은색이야,part O
+눈 붉은색으로 변했어,part O O
+눈 빨간색,part O
+눈 붉은색,part O
+눈 열 있어요,part issue O
+눈 열 생겼어요,part issue O
+눈 열을 당했어요,part issue O
+눈 열 생겼어,part issue O
+눈 열 어떡해,part issue O
+눈 열 발생했어요,part issue O
+눈 열 있어,part issue O
+눈 열 보여,part issue O
+눈 열,part issue
+열 눈,issue part
+눈 염증 있어요,part issue O
+눈 염증 생겼어요,part issue O
+눈 염증을 당했어요,part issue O
+눈 염증 생겼어,part issue O
+눈 염증 어떡해,part issue O
+눈 염증 발생했어요,part issue O
+눈 염증 있어,part issue O
+눈 염증 보여,part issue O
+눈 염증,part issue
+염증 눈,issue part
+눈 출혈 있어요,part issue O
+눈 출혈 생겼어요,part issue O
+눈 출혈을 당했어요,part issue O
+눈 출혈 생겼어,part issue O
+눈 출혈 어떡해,part issue O
+눈 출혈 발생했어요,part issue O
+눈 출혈 있어,part issue O
+눈 출혈 보여,part issue O
+눈 출혈,part issue
+출혈 눈,issue part
+눈 멍 있어요,part issue O
+눈 멍 생겼어요,part issue O
+눈 멍을 당했어요,part issue O
+눈 멍 생겼어,part issue O
+눈 멍 어떡해,part issue O
+눈 멍 발생했어요,part issue O
+눈 멍 있어,part issue O
+눈 멍 보여,part issue O
+눈 멍,part issue
+멍 눈,issue part
+눈 화상 있어요,part issue O
+눈 화상 생겼어요,part issue O
+눈 화상을 당했어요,part issue O
+눈 화상 생겼어,part issue O
+눈 화상 어떡해,part issue O
+눈 화상 발생했어요,part issue O
+눈 화상 있어,part issue O
+눈 화상 보여,part issue O
+눈 화상,part issue
+화상 눈,issue part
+눈 동상 있어요,part issue O
+눈 동상 생겼어요,part issue O
+눈 동상을 당했어요,part issue O
+눈 동상 생겼어,part issue O
+눈 동상 어떡해,part issue O
+눈 동상 발생했어요,part issue O
+눈 동상 있어,part issue O
+눈 동상 보여,part issue O
+눈 동상,part issue
+동상 눈,issue part
+눈 골절 있어요,part issue O
+눈 골절 생겼어요,part issue O
+눈 골절을 당했어요,part issue O
+눈 골절 생겼어,part issue O
+눈 골절 어떡해,part issue O
+눈 골절 발생했어요,part issue O
+눈 골절 있어,part issue O
+눈 골절 보여,part issue O
+눈 골절,part issue
+골절 눈,issue part
+눈 부러짐 있어요,part issue O
+눈 부러짐 생겼어요,part issue O
+눈 부러짐을 당했어요,part issue O
+눈 부러짐 생겼어,part issue O
+눈 부러짐 어떡해,part issue O
+눈 부러짐 발생했어요,part issue O
+눈 부러짐 있어,part issue O
+눈 부러짐 보여,part issue O
+눈 부러짐,part issue
+부러짐 눈,issue part
+눈 상처 있어요,part issue O
+눈 상처 생겼어요,part issue O
+눈 상처 당했어요,part issue O
+눈 상처 생겼어,part issue O
+눈 상처 어떡해,part issue O
+눈 상처 발생했어요,part issue O
+눈 상처 있어,part issue O
+눈 상처,part issue
+상처 눈,issue part
+눈 붓기 있어요,part issue O
+눈 붓기 생겼어요,part issue O
+눈 붓기 당했어요,part issue O
+눈 붓기 생겼어,part issue O
+눈 붓기 어떡해,part issue O
+눈 붓기 발생했어요,part issue O
+눈 붓기 있어,part issue O
+눈 붓기,part issue
+붓기 눈,issue part
+눈 땀띠 있어요,part issue O
+눈 땀띠 생겼어요,part issue O
+눈 땀띠 당했어요,part issue O
+눈 땀띠 생겼어,part issue O
+눈 땀띠 어떡해,part issue O
+눈 땀띠 발생했어요,part issue O
+눈 땀띠 있어,part issue O
+눈 땀띠,part issue
+땀띠 눈,issue part
+귀 빨갛게 됐어,part O O
+귀 빨간색이야,part O
+귀 빨개,part O
+귀 붉은색이야,part O
+귀 붉은색으로 변했어,part O O
+귀 빨간색,part O
+귀 붉은색,part O
+귀 열 있어요,part issue O
+귀 열 생겼어요,part issue O
+귀 열을 당했어요,part issue O
+귀 열 생겼어,part issue O
+귀 열 어떡해,part issue O
+귀 열 발생했어요,part issue O
+귀 열 있어,part issue O
+귀 열 보여,part issue O
+귀 열,part issue
+열 귀,issue part
+귀 염증 있어요,part issue O
+귀 염증 생겼어요,part issue O
+귀 염증을 당했어요,part issue O
+귀 염증 생겼어,part issue O
+귀 염증 어떡해,part issue O
+귀 염증 발생했어요,part issue O
+귀 염증 있어,part issue O
+귀 염증 보여,part issue O
+귀 염증,part issue
+염증 귀,issue part
+귀 출혈 있어요,part issue O
+귀 출혈 생겼어요,part issue O
+귀 출혈을 당했어요,part issue O
+귀 출혈 생겼어,part issue O
+귀 출혈 어떡해,part issue O
+귀 출혈 발생했어요,part issue O
+귀 출혈 있어,part issue O
+귀 출혈 보여,part issue O
+귀 출혈,part issue
+출혈 귀,issue part
+귀 멍 있어요,part issue O
+귀 멍 생겼어요,part issue O
+귀 멍을 당했어요,part issue O
+귀 멍 생겼어,part issue O
+귀 멍 어떡해,part issue O
+귀 멍 발생했어요,part issue O
+귀 멍 있어,part issue O
+귀 멍 보여,part issue O
+귀 멍,part issue
+멍 귀,issue part
+귀 화상 있어요,part issue O
+귀 화상 생겼어요,part issue O
+귀 화상을 당했어요,part issue O
+귀 화상 생겼어,part issue O
+귀 화상 어떡해,part issue O
+귀 화상 발생했어요,part issue O
+귀 화상 있어,part issue O
+귀 화상 보여,part issue O
+귀 화상,part issue
+화상 귀,issue part
+귀 동상 있어요,part issue O
+귀 동상 생겼어요,part issue O
+귀 동상을 당했어요,part issue O
+귀 동상 생겼어,part issue O
+귀 동상 어떡해,part issue O
+귀 동상 발생했어요,part issue O
+귀 동상 있어,part issue O
+귀 동상 보여,part issue O
+귀 동상,part issue
+동상 귀,issue part
+귀 골절 있어요,part issue O
+귀 골절 생겼어요,part issue O
+귀 골절을 당했어요,part issue O
+귀 골절 생겼어,part issue O
+귀 골절 어떡해,part issue O
+귀 골절 발생했어요,part issue O
+귀 골절 있어,part issue O
+귀 골절 보여,part issue O
+귀 골절,part issue
+골절 귀,issue part
+귀 부러짐 있어요,part issue O
+귀 부러짐 생겼어요,part issue O
+귀 부러짐을 당했어요,part issue O
+귀 부러짐 생겼어,part issue O
+귀 부러짐 어떡해,part issue O
+귀 부러짐 발생했어요,part issue O
+귀 부러짐 있어,part issue O
+귀 부러짐 보여,part issue O
+귀 부러짐,part issue
+부러짐 귀,issue part
+귀 상처 있어요,part issue O
+귀 상처 생겼어요,part issue O
+귀 상처 당했어요,part issue O
+귀 상처 생겼어,part issue O
+귀 상처 어떡해,part issue O
+귀 상처 발생했어요,part issue O
+귀 상처 있어,part issue O
+귀 상처,part issue
+상처 귀,issue part
+귀 붓기 있어요,part issue O
+귀 붓기 생겼어요,part issue O
+귀 붓기 당했어요,part issue O
+귀 붓기 생겼어,part issue O
+귀 붓기 어떡해,part issue O
+귀 붓기 발생했어요,part issue O
+귀 붓기 있어,part issue O
+귀 붓기,part issue
+붓기 귀,issue part
+귀 땀띠 있어요,part issue O
+귀 땀띠 생겼어요,part issue O
+귀 땀띠 당했어요,part issue O
+귀 땀띠 생겼어,part issue O
+귀 땀띠 어떡해,part issue O
+귀 땀띠 발생했어요,part issue O
+귀 땀띠 있어,part issue O
+귀 땀띠,part issue
+땀띠 귀,issue part
+코 빨갛게 됐어,part O O
+코 빨간색이야,part O
+코 빨개,part O
+코 붉은색이야,part O
+코 붉은색으로 변했어,part O O
+코 빨간색,part O
+코 붉은색,part O
+코 열 있어요,part issue O
+코 열 생겼어요,part issue O
+코 열을 당했어요,part issue O
+코 열 생겼어,part issue O
+코 열 어떡해,part issue O
+코 열 발생했어요,part issue O
+코 열 있어,part issue O
+코 열 보여,part issue O
+코 열,part issue
+열 코,issue part
+코 염증 있어요,part issue O
+코 염증 생겼어요,part issue O
+코 염증을 당했어요,part issue O
+코 염증 생겼어,part issue O
+코 염증 어떡해,part issue O
+코 염증 발생했어요,part issue O
+코 염증 있어,part issue O
+코 염증 보여,part issue O
+코 염증,part issue
+염증 코,issue part
+코 출혈 있어요,part issue O
+코 출혈 생겼어요,part issue O
+코 출혈을 당했어요,part issue O
+코 출혈 생겼어,part issue O
+코 출혈 어떡해,part issue O
+코 출혈 발생했어요,part issue O
+코 출혈 있어,part issue O
+코 출혈 보여,part issue O
+코 출혈,part issue
+출혈 코,issue part
+코 멍 있어요,part issue O
+코 멍 생겼어요,part issue O
+코 멍을 당했어요,part issue O
+코 멍 생겼어,part issue O
+코 멍 어떡해,part issue O
+코 멍 발생했어요,part issue O
+코 멍 있어,part issue O
+코 멍 보여,part issue O
+코 멍,part issue
+멍 코,issue part
+코 화상 있어요,part issue O
+코 화상 생겼어요,part issue O
+코 화상을 당했어요,part issue O
+코 화상 생겼어,part issue O
+코 화상 어떡해,part issue O
+코 화상 발생했어요,part issue O
+코 화상 있어,part issue O
+코 화상 보여,part issue O
+코 화상,part issue
+화상 코,issue part
+코 동상 있어요,part issue O
+코 동상 생겼어요,part issue O
+코 동상을 당했어요,part issue O
+코 동상 생겼어,part issue O
+코 동상 어떡해,part issue O
+코 동상 발생했어요,part issue O
+코 동상 있어,part issue O
+코 동상 보여,part issue O
+코 동상,part issue
+동상 코,issue part
+코 골절 있어요,part issue O
+코 골절 생겼어요,part issue O
+코 골절을 당했어요,part issue O
+코 골절 생겼어,part issue O
+코 골절 어떡해,part issue O
+코 골절 발생했어요,part issue O
+코 골절 있어,part issue O
+코 골절 보여,part issue O
+코 골절,part issue
+골절 코,issue part
+코 부러짐 있어요,part issue O
+코 부러짐 생겼어요,part issue O
+코 부러짐을 당했어요,part issue O
+코 부러짐 생겼어,part issue O
+코 부러짐 어떡해,part issue O
+코 부러짐 발생했어요,part issue O
+코 부러짐 있어,part issue O
+코 부러짐 보여,part issue O
+코 부러짐,part issue
+부러짐 코,issue part
+코 상처 있어요,part issue O
+코 상처 생겼어요,part issue O
+코 상처 당했어요,part issue O
+코 상처 생겼어,part issue O
+코 상처 어떡해,part issue O
+코 상처 발생했어요,part issue O
+코 상처 있어,part issue O
+코 상처,part issue
+상처 코,issue part
+코 붓기 있어요,part issue O
+코 붓기 생겼어요,part issue O
+코 붓기 당했어요,part issue O
+코 붓기 생겼어,part issue O
+코 붓기 어떡해,part issue O
+코 붓기 발생했어요,part issue O
+코 붓기 있어,part issue O
+코 붓기,part issue
+붓기 코,issue part
+코 땀띠 있어요,part issue O
+코 땀띠 생겼어요,part issue O
+코 땀띠 당했어요,part issue O
+코 땀띠 생겼어,part issue O
+코 땀띠 어떡해,part issue O
+코 땀띠 발생했어요,part issue O
+코 땀띠 있어,part issue O
+코 땀띠,part issue
+땀띠 코,issue part
+입 빨갛게 됐어,part O O
+입 빨간색이야,part O
+입 빨개,part O
+입 붉은색이야,part O
+입 붉은색으로 변했어,part O O
+입 빨간색,part O
+입 붉은색,part O
+입 열 있어요,part issue O
+입 열 생겼어요,part issue O
+입 열을 당했어요,part issue O
+입 열 생겼어,part issue O
+입 열 어떡해,part issue O
+입 열 발생했어요,part issue O
+입 열 있어,part issue O
+입 열 보여,part issue O
+입 열,part issue
+열 입,issue part
+입 염증 있어요,part issue O
+입 염증 생겼어요,part issue O
+입 염증을 당했어요,part issue O
+입 염증 생겼어,part issue O
+입 염증 어떡해,part issue O
+입 염증 발생했어요,part issue O
+입 염증 있어,part issue O
+입 염증 보여,part issue O
+입 염증,part issue
+염증 입,issue part
+입 출혈 있어요,part issue O
+입 출혈 생겼어요,part issue O
+입 출혈을 당했어요,part issue O
+입 출혈 생겼어,part issue O
+입 출혈 어떡해,part issue O
+입 출혈 발생했어요,part issue O
+입 출혈 있어,part issue O
+입 출혈 보여,part issue O
+입 출혈,part issue
+출혈 입,issue part
+입 멍 있어요,part issue O
+입 멍 생겼어요,part issue O
+입 멍을 당했어요,part issue O
+입 멍 생겼어,part issue O
+입 멍 어떡해,part issue O
+입 멍 발생했어요,part issue O
+입 멍 있어,part issue O
+입 멍 보여,part issue O
+입 멍,part issue
+멍 입,issue part
+입 화상 있어요,part issue O
+입 화상 생겼어요,part issue O
+입 화상을 당했어요,part issue O
+입 화상 생겼어,part issue O
+입 화상 어떡해,part issue O
+입 화상 발생했어요,part issue O
+입 화상 있어,part issue O
+입 화상 보여,part issue O
+입 화상,part issue
+화상 입,issue part
+입 동상 있어요,part issue O
+입 동상 생겼어요,part issue O
+입 동상을 당했어요,part issue O
+입 동상 생겼어,part issue O
+입 동상 어떡해,part issue O
+입 동상 발생했어요,part issue O
+입 동상 있어,part issue O
+입 동상 보여,part issue O
+입 동상,part issue
+동상 입,issue part
+입 골절 있어요,part issue O
+입 골절 생겼어요,part issue O
+입 골절을 당했어요,part issue O
+입 골절 생겼어,part issue O
+입 골절 어떡해,part issue O
+입 골절 발생했어요,part issue O
+입 골절 있어,part issue O
+입 골절 보여,part issue O
+입 골절,part issue
+골절 입,issue part
+입 부러짐 있어요,part issue O
+입 부러짐 생겼어요,part issue O
+입 부러짐을 당했어요,part issue O
+입 부러짐 생겼어,part issue O
+입 부러짐 어떡해,part issue O
+입 부러짐 발생했어요,part issue O
+입 부러짐 있어,part issue O
+입 부러짐 보여,part issue O
+입 부러짐,part issue
+부러짐 입,issue part
+입 상처 있어요,part issue O
+입 상처 생겼어요,part issue O
+입 상처 당했어요,part issue O
+입 상처 생겼어,part issue O
+입 상처 어떡해,part issue O
+입 상처 발생했어요,part issue O
+입 상처 있어,part issue O
+입 상처,part issue
+상처 입,issue part
+입 붓기 있어요,part issue O
+입 붓기 생겼어요,part issue O
+입 붓기 당했어요,part issue O
+입 붓기 생겼어,part issue O
+입 붓기 어떡해,part issue O
+입 붓기 발생했어요,part issue O
+입 붓기 있어,part issue O
+입 붓기,part issue
+붓기 입,issue part
+입 땀띠 있어요,part issue O
+입 땀띠 생겼어요,part issue O
+입 땀띠 당했어요,part issue O
+입 땀띠 생겼어,part issue O
+입 땀띠 어떡해,part issue O
+입 땀띠 발생했어요,part issue O
+입 땀띠 있어,part issue O
+입 땀띠,part issue
+땀띠 입,issue part
+팔 찧었어,part O
+팔 찍혔어,part O
+팔 부딪혔어,part O
+팔 경련 있어,part O O
+팔 경련,part O
+팔 떨어,part O
+팔 심하게 떨어,part O O
+팔 떨고있어,part O
+팔 떨고 있어,part O O
+다리 찧었어,part O
+다리 찍혔어,part O
+다리 부딪혔어,part O
+다리 경련 있어,part O O
+다리 경련,part O
+다리 떨어,part O
+다리 심하게 떨어,part O O
+다리 떨고있어,part O
+다리 떨고 있어,part O O
+목 찧었어,part O
+목 찍혔어,part O
+목 부딪혔어,part O
+목 경련 있어,part O O
+목 경련,part O
+목 떨어,part O
+목 심하게 떨어,part O O
+목 떨고있어,part O
+목 떨고 있어,part O O
+머리 찧었어,part O
+머리 찍혔어,part O
+머리 부딪혔어,part O
+머리 경련 있어,part O O
+머리 경련,part O
+머리 떨어,part O
+머리 심하게 떨어,part O O
+머리 떨고있어,part O
+머리 떨고 있어,part O O
+손가락 찧었어,part O
+손가락 찍혔어,part O
+손가락 부딪혔어,part O
+손가락 경련 있어,part O O
+손가락 경련,part O
+손가락 떨어,part O
+손가락 심하게 떨어,part O O
+손가락 떨고있어,part O
+손가락 떨고 있어,part O O
+발가락 찧었어,part O
+발가락 찍혔어,part O
+발가락 부딪혔어,part O
+발가락 경련 있어,part O O
+발가락 경련,part O
+발가락 떨어,part O
+발가락 심하게 떨어,part O O
+발가락 떨고있어,part O
+발가락 떨고 있어,part O O
+이마 찧었어,part O
+이마 찍혔어,part O
+이마 부딪혔어,part O
+이마 경련 있어,part O O
+이마 경련,part O
+이마 떨어,part O
+이마 심하게 떨어,part O O
+이마 떨고있어,part O
+이마 떨고 있어,part O O
+배 찧었어,part O
+배 찍혔어,part O
+배 부딪혔어,part O
+배 경련 있어,part O O
+배 경련,part O
+배 떨어,part O
+배 심하게 떨어,part O O
+배 떨고있어,part O
+배 떨고 있어,part O O
+허리 찧었어,part O
+허리 찍혔어,part O
+허리 부딪혔어,part O
+허리 경련 있어,part O O
+허리 경련,part O
+허리 떨어,part O
+허리 심하게 떨어,part O O
+허리 떨고있어,part O
+허리 떨고 있어,part O O
+피부 찧었어,part O
+피부 찍혔어,part O
+피부 부딪혔어,part O
+피부 경련 있어,part O O
+피부 경련,part O
+피부 떨어,part O
+피부 심하게 떨어,part O O
+피부 떨고있어,part O
+피부 떨고 있어,part O O
+엉덩이 찧었어,part O
+엉덩이 찍혔어,part O
+엉덩이 부딪혔어,part O
+엉덩이 경련 있어,part O O
+엉덩이 경련,part O
+엉덩이 떨어,part O
+엉덩이 심하게 떨어,part O O
+엉덩이 떨고있어,part O
+엉덩이 떨고 있어,part O O
+눈 뭐가 들어갔어,part O O
+눈 속에 뭔가 들어갔어,part O O O
+눈 이물질이 들어갔어,part O O
+눈에 뭔가 있어,part O O
+눈 뭐가 들어갔어,part O O
+눈 뭐 있어,part O O
+눈 이물질,part issue
+이물질 눈,issue part
+눈 안에 열 있어,part O issue O
+눈 속에 열 있어,part O issue O
+눈 열 보여,part issue O
+눈 안 열,part O issue
+눈 속 열,part O issue
+눈 안에 염증 있어,part O issue O
+눈 속에 염증 있어,part O issue O
+눈 염증 보여,part issue O
+눈 안 염증,part O issue
+눈 속 염증,part O issue
+눈 안에 출혈 있어,part O issue O
+눈 속에 출혈 있어,part O issue O
+눈 출혈 보여,part issue O
+눈 안 출혈,part O issue
+눈 속 출혈,part O issue
+눈 안에 멍 있어,part O issue O
+눈 속에 멍 있어,part O issue O
+눈 멍 보여,part issue O
+눈 안 멍,part O issue
+눈 속 멍,part O issue
+눈 안에 화상 있어,part O issue O
+눈 속에 화상 있어,part O issue O
+눈 화상 보여,part issue O
+눈 안 화상,part O issue
+눈 속 화상,part O issue
+눈 안에 동상 있어,part O issue O
+눈 속에 동상 있어,part O issue O
+눈 동상 보여,part issue O
+눈 안 동상,part O issue
+눈 속 동상,part O issue
+눈 안에 골절 있어,part O issue O
+눈 속에 골절 있어,part O issue O
+눈 골절 보여,part issue O
+눈 안 골절,part O issue
+눈 속 골절,part O issue
+눈 안에 부러짐 있어,part O issue O
+눈 속에 부러짐 있어,part O issue O
+눈 부러짐 보여,part issue O
+눈 안 부러짐,part O issue
+눈 속 부러짐,part O issue
+눈 안에 상처 있어,part O issue O
+눈 속에 상처 있어,part O issue O
+눈 상처 보여,part issue O
+눈 안 상처,part O issue
+눈 속 상처,part O issue
+눈 안에 붓기 있어,part O issue O
+눈 속에 붓기 있어,part O issue O
+눈 붓기 보여,part issue O
+눈 안 붓기,part O issue
+눈 속 붓기,part O issue
+눈 안에 땀띠 있어,part O issue O
+눈 속에 땀띠 있어,part O issue O
+눈 땀띠 보여,part issue O
+눈 안 땀띠,part O issue
+눈 속 땀띠,part O issue
+귀 뭐가 들어갔어,part O O
+귀 속에 뭔가 들어갔어,part O O O
+귀 이물질이 들어갔어,part O O
+귀에 뭔가 있어,part O O
+귀 뭐가 들어갔어,part O O
+귀 뭐 있어,part O O
+귀 이물질,part issue
+이물질 귀,issue part
+귀 안에 열 있어,part O issue O
+귀 속에 열 있어,part O issue O
+귀 열 보여,part issue O
+귀 안 열,part O issue
+귀 속 열,part O issue
+귀 안에 염증 있어,part O issue O
+귀 속에 염증 있어,part O issue O
+귀 염증 보여,part issue O
+귀 안 염증,part O issue
+귀 속 염증,part O issue
+귀 안에 출혈 있어,part O issue O
+귀 속에 출혈 있어,part O issue O
+귀 출혈 보여,part issue O
+귀 안 출혈,part O issue
+귀 속 출혈,part O issue
+귀 안에 멍 있어,part O issue O
+귀 속에 멍 있어,part O issue O
+귀 멍 보여,part issue O
+귀 안 멍,part O issue
+귀 속 멍,part O issue
+귀 안에 화상 있어,part O issue O
+귀 속에 화상 있어,part O issue O
+귀 화상 보여,part issue O
+귀 안 화상,part O issue
+귀 속 화상,part O issue
+귀 안에 동상 있어,part O issue O
+귀 속에 동상 있어,part O issue O
+귀 동상 보여,part issue O
+귀 안 동상,part O issue
+귀 속 동상,part O issue
+귀 안에 골절 있어,part O issue O
+귀 속에 골절 있어,part O issue O
+귀 골절 보여,part issue O
+귀 안 골절,part O issue
+귀 속 골절,part O issue
+귀 안에 부러짐 있어,part O issue O
+귀 속에 부러짐 있어,part O issue O
+귀 부러짐 보여,part issue O
+귀 안 부러짐,part O issue
+귀 속 부러짐,part O issue
+귀 안에 상처 있어,part O issue O
+귀 속에 상처 있어,part O issue O
+귀 상처 보여,part issue O
+귀 안 상처,part O issue
+귀 속 상처,part O issue
+귀 안에 붓기 있어,part O issue O
+귀 속에 붓기 있어,part O issue O
+귀 붓기 보여,part issue O
+귀 안 붓기,part O issue
+귀 속 붓기,part O issue
+귀 안에 땀띠 있어,part O issue O
+귀 속에 땀띠 있어,part O issue O
+귀 땀띠 보여,part issue O
+귀 안 땀띠,part O issue
+귀 속 땀띠,part O issue
+코 뭐가 들어갔어,part O O
+코 속에 뭔가 들어갔어,part O O O
+코 이물질이 들어갔어,part O O
+코에 뭔가 있어,part O O
+코 뭐가 들어갔어,part O O
+코 뭐 있어,part O O
+코 이물질,part issue
+이물질 코,issue part
+코 안에 열 있어,part O issue O
+코 속에 열 있어,part O issue O
+코 열 보여,part issue O
+코 안 열,part O issue
+코 속 열,part O issue
+코 안에 염증 있어,part O issue O
+코 속에 염증 있어,part O issue O
+코 염증 보여,part issue O
+코 안 염증,part O issue
+코 속 염증,part O issue
+코 안에 출혈 있어,part O issue O
+코 속에 출혈 있어,part O issue O
+코 출혈 보여,part issue O
+코 안 출혈,part O issue
+코 속 출혈,part O issue
+코 안에 멍 있어,part O issue O
+코 속에 멍 있어,part O issue O
+코 멍 보여,part issue O
+코 안 멍,part O issue
+코 속 멍,part O issue
+코 안에 화상 있어,part O issue O
+코 속에 화상 있어,part O issue O
+코 화상 보여,part issue O
+코 안 화상,part O issue
+코 속 화상,part O issue
+코 안에 동상 있어,part O issue O
+코 속에 동상 있어,part O issue O
+코 동상 보여,part issue O
+코 안 동상,part O issue
+코 속 동상,part O issue
+코 안에 골절 있어,part O issue O
+코 속에 골절 있어,part O issue O
+코 골절 보여,part issue O
+코 안 골절,part O issue
+코 속 골절,part O issue
+코 안에 부러짐 있어,part O issue O
+코 속에 부러짐 있어,part O issue O
+코 부러짐 보여,part issue O
+코 안 부러짐,part O issue
+코 속 부러짐,part O issue
+코 안에 상처 있어,part O issue O
+코 속에 상처 있어,part O issue O
+코 상처 보여,part issue O
+코 안 상처,part O issue
+코 속 상처,part O issue
+코 안에 붓기 있어,part O issue O
+코 속에 붓기 있어,part O issue O
+코 붓기 보여,part issue O
+코 안 붓기,part O issue
+코 속 붓기,part O issue
+코 안에 땀띠 있어,part O issue O
+코 속에 땀띠 있어,part O issue O
+코 땀띠 보여,part issue O
+코 안 땀띠,part O issue
+코 속 땀띠,part O issue
+입 뭐가 들어갔어,part O O
+입 속에 뭔가 들어갔어,part O O O
+입 이물질이 들어갔어,part O O
+입에 뭔가 있어,part O O
+입 뭐가 들어갔어,part O O
+입 뭐 있어,part O O
+입 이물질,part issue
+이물질 입,issue part
+입 안에 열 있어,part O issue O
+입 속에 열 있어,part O issue O
+입 열 보여,part issue O
+입 안 열,part O issue
+입 속 열,part O issue
+입 안에 염증 있어,part O issue O
+입 속에 염증 있어,part O issue O
+입 염증 보여,part issue O
+입 안 염증,part O issue
+입 속 염증,part O issue
+입 안에 출혈 있어,part O issue O
+입 속에 출혈 있어,part O issue O
+입 출혈 보여,part issue O
+입 안 출혈,part O issue
+입 속 출혈,part O issue
+입 안에 멍 있어,part O issue O
+입 속에 멍 있어,part O issue O
+입 멍 보여,part issue O
+입 안 멍,part O issue
+입 속 멍,part O issue
+입 안에 화상 있어,part O issue O
+입 속에 화상 있어,part O issue O
+입 화상 보여,part issue O
+입 안 화상,part O issue
+입 속 화상,part O issue
+입 안에 동상 있어,part O issue O
+입 속에 동상 있어,part O issue O
+입 동상 보여,part issue O
+입 안 동상,part O issue
+입 속 동상,part O issue
+입 안에 골절 있어,part O issue O
+입 속에 골절 있어,part O issue O
+입 골절 보여,part issue O
+입 안 골절,part O issue
+입 속 골절,part O issue
+입 안에 부러짐 있어,part O issue O
+입 속에 부러짐 있어,part O issue O
+입 부러짐 보여,part issue O
+입 안 부러짐,part O issue
+입 속 부러짐,part O issue
+입 안에 상처 있어,part O issue O
+입 속에 상처 있어,part O issue O
+입 상처 보여,part issue O
+입 안 상처,part O issue
+입 속 상처,part O issue
+입 안에 붓기 있어,part O issue O
+입 속에 붓기 있어,part O issue O
+입 붓기 보여,part issue O
+입 안 붓기,part O issue
+입 속 붓기,part O issue
+입 안에 땀띠 있어,part O issue O
+입 속에 땀띠 있어,part O issue O
+입 땀띠 보여,part issue O
+입 안 땀띠,part O issue
+입 속 땀띠,part O issue
+세제,issue
+샴푸,issue
+비누,issue
+손세정제,issue
+커피,issue
+뼈,issue
+동전,issue
+독,issue
+술,issue
+약,issue
+알약,issue
+세제 삼켰어,issue O
+세제 햝았어,issue O
+세제 먹었어,issue O
+세제 넘겼어,issue O
+샴푸 삼켰어,issue O
+샴푸 햝았어,issue O
+샴푸 먹었어,issue O
+샴푸 넘겼어,issue O
+비누 삼켰어,issue O
+비누 햝았어,issue O
+비누 먹었어,issue O
+비누 넘겼어,issue O
+손세정제 삼켰어,issue O
+손세정제 햝았어,issue O
+손세정제 먹었어,issue O
+손세정제 넘겼어,issue O
+커피 삼켰어,issue O
+커피 햝았어,issue O
+커피 먹었어,issue O
+커피 넘겼어,issue O
+뼈 삼켰어,issue O
+뼈 햝았어,issue O
+뼈 먹었어,issue O
+뼈 넘겼어,issue O
+동전 삼켰어,issue O
+동전 햝았어,issue O
+동전 먹었어,issue O
+동전 넘겼어,issue O
+독 삼켰어,issue O
+독 햝았어,issue O
+독 먹었어,issue O
+독 넘겼어,issue O
+술 삼켰어,issue O
+술 햝았어,issue O
+술 먹었어,issue O
+술 넘겼어,issue O
+약 삼켰어,issue O
+약 햝았어,issue O
+약 먹었어,issue O
+약 넘겼어,issue O
+알약 삼켰어,issue O
+알약 햝았어,issue O
+알약 먹었어,issue O
+알약 넘겼어,issue O
+숨 안 쉬어,issue O O
+호흡 안 해,issue O O
+인공호흡 알려줘,issue O
+숨 어떻게 쉬어,issue O O
+벌레 물렸어,issue O
+벌레 물린 것 같아,issue O O O
+천식 있어,issue O
+천식 있는 것 같아,issue O O O
+천식 증상,issue O
+천식 증상 알려줘,issue O O
+천식 이면 어때,issue O O
+천식 어떡해,issue O
+천식 어떻게 해,issue O O
+천식,issue
+일사병 있어,issue O
+일사병 있는 것 같아,issue O O O
+일사병 증상,issue O
+일사병 증상 알려줘,issue O O
+일사병 이면 어때,issue O O
+일사병 어떡해,issue O
+일사병 어떻게 해,issue O O
+일사병,issue
+기관지염 있어,issue O
+기관지염 있는 것 같아,issue O O O
+기관지염 증상,issue O
+기관지염 증상 알려줘,issue O O
+기관지염 이면 어때,issue O O
+기관지염 어떡해,issue O
+기관지염 어떻게 해,issue O O
+기관지염,issue
+가래 있어,issue O
+가래 있는 것 같아,issue O O O
+가래 증상,issue O
+가래 증상 알려줘,issue O O
+가래 이면 어때,issue O O
+가래 어떡해,issue O
+가래 어떻게 해,issue O O
+가래,issue
+폐렴 있어,issue O
+폐렴 있는 것 같아,issue O O O
+폐렴 증상,issue O
+폐렴 증상 알려줘,issue O O
+폐렴 이면 어때,issue O O
+폐렴 어떡해,issue O
+폐렴 어떻게 해,issue O O
+폐렴,issue
+감기 있어,issue O
+감기 있는 것 같아,issue O O O
+감기 증상,issue O
+감기 증상 알려줘,issue O O
+감기 이면 어때,issue O O
+감기 어떡해,issue O
+감기 어떻게 해,issue O O
+감기,issue
+설사 있어,issue O
+설사 있는 것 같아,issue O O O
+설사 증상,issue O
+설사 증상 알려줘,issue O O
+설사 이면 어때,issue O O
+설사 어떡해,issue O
+설사 어떻게 해,issue O O
+설사,issue
+눈곱,issue
+아기 눈곱,O issue
+아이 눈곱,O issue
+눈곱이 있어,issue O
+눈곱 어떻게 해,issue O O
+눈곱 어떡해,issue O
