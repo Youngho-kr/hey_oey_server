@@ -1,11 +1,6 @@
-# from transformers import PreTrainedTokenizerFast, GPT2LMHeadModel
+from .open_model import *
 
-# model_name = "eunjin/kogpt2-finetuned-wellness"
+def process_message(message):
+    response, intent = generate_and_classify(message)
 
-def load_model():
-    model = []
-    tokenizer = []
-    return model, tokenizer
-
-def process_message(message, model, tokenizer):
-    return message
+    return response, intent
