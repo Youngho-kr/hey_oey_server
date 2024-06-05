@@ -1,3 +1,3 @@
-from kochat.data.dataset import Dataset
+from .dataset import Dataset
 
 __ALL__ = [Dataset]

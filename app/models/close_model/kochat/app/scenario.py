@@ -23,9 +23,7 @@ from data_manager import DataManager  # 데이터 관리 클래스 임포트
 import os
 
 # DataManager 인스턴스 생성 예
-print(os.path.join(os.getcwd()))
-data_manager = DataManager(os.getcwd() + "/app/models/close_model/data/response/health.csv")
-# data_manager = DataManager('data/response/health.csv')
+data_manager = DataManager(os.path.join(os.getcwd(), 'app', 'models', 'close_model', 'data', 'response', 'health.csv'))
 
 @data
 class Scenario:
