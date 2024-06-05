@@ -11,14 +11,20 @@ from kochat.loss import CRFLoss, CenterLoss
 from kochat.model import intent, entity
 from kochat.proc import DistanceClassifier, GensimEmbedder, EntityRecognizer
 from huggingface_hub import hf_hub_download
+# 환경 변수에서 토큰 가져오기
+hf_token = os.getenv("HF_TOKEN")
+
+# 토큰이 설정되어 있지 않으면 오류 메시지 출력
+if not hf_token:
+    raise ValueError("Hugging Face token not set in environment variables")
 
 # 모델 초기화
 repo_name = "darami819/capston1_closed_domain"
-clf_model_path = hf_hub_download(repo_id=repo_name, filename="DistanceClassifier.pth")
-rcn_model_path = hf_hub_download(repo_id=repo_name, filename="EntityRecognizer.pth")
-gensim_embedder_path = hf_hub_download(repo_id=repo_name, filename="GensimEmbedder.gensim")
-npy_file_path_1 = hf_hub_download(repo_id=repo_name, filename="GensimEmbedder.gensim.wv.vectors_ngrams.npy")
-npy_file_path_2 = hf_hub_download(repo_id=repo_name, filename="GensimEmbedder.gensim.trainables.vectors_ngrams_lockf.npy")
+clf_model_path = hf_hub_download(repo_id=repo_name, filename="DistanceClassifier.pth", use_auth_token=hf_token)
+rcn_model_path = hf_hub_download(repo_id=repo_name, filename="EntityRecognizer.pth", use_auth_token=hf_token)
+gensim_embedder_path = hf_hub_download(repo_id=repo_name, filename="GensimEmbedder.gensim", use_auth_token=hf_token)
+npy_file_path_1 = hf_hub_download(repo_id=repo_name, filename="GensimEmbedder.gensim.wv.vectors_ngrams.npy", use_auth_token=hf_token)
+npy_file_path_2 = hf_hub_download(repo_id=repo_name, filename="GensimEmbedder.gensim.trainables.vectors_ngrams_lockf.npy", use_auth_token=hf_token)
 dataset = Dataset(ood=False)
 
 # 모델 로드 시도
